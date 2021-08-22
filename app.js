@@ -6,6 +6,9 @@ const app = express();
 app.use(express.json());
 app.use(express.static(`${__dirname}/public`));
 
+app.get("/", (req, res) => {
+  res.render("index.html");
+});
 app.get("/getproduct", getProduct);
 app.get("/getcolor", getColor);
 
