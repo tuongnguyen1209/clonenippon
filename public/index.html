@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tool</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- vuejs cdn -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+
+    <!-- bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="container p-3" id="app">
+      <div class="form">
+        <form v-on:submit="search" class="d-flex">
+          <div class="form-group w-75">
+            <select class="form-control" v-on:change="changeValue" required>
+              <option value="">Chọn loại sơn</option>
+              <option value="son-noi-that">Sơn nội thất</option>
+              <option value="son-ngoai-that">Sơn ngoại thất</option>
+            </select>
+          </div>
+          <div class="form-group text-center w-25">
+            <input type="submit" value="Tìm" class="btn btn-success" />
+          </div>
+        </form>
+      </div>
+      <div class="mytable" v-show="show">
+        <div class="mysearch" v-if="isSearching">
+          <img src="images/search.gif" alt="" />
+        </div>
+        <div v-else>
+          <table class="table">
+            <thead>
+              <th>Hình</th>
+              <th>Tên</th>
+              <th>Loại</th>
+              <th>Chi tiết</th>
+              <th>Tính Chất</th>
+              <th>Link SP</th>
+              <th>Link hình</th>
+            </thead>
+            <tbody>
+              <tr v-for="(item, index) in listProduct" :key="index">
+                <td>
+                  <img :src="item.images" />
+                </td>
+                <td>{{item.name}}</td>
+                <td>{{item.category}}</td>
+                <td>{{item.info}}</td>
+                <td><p v-html="item.tinhchat" style="text-align: left"></p></td>
+                <td><a :href="item.link" target="_blank">Trang đích</a></td>
+                <td><a :href="item.images" target="_blank">Hình</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div v-show="!show">
+        <div class="text-center text-danger p-4">{{ error}}</div>
+      </div>
+    </div>
+    <script type="module" src="./js/script.js"></script>
+  </body>
+</html>

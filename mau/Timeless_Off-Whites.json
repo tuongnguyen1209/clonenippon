@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Brilliant White",
+    "colorcode": "#ffffff",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Whispering White",
+    "colorcode": "#FBF6E7",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Snow White",
+    "colorcode": "#FAF4E5",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Hush White",
+    "colorcode": "#F3EEE1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "White Lace",
+    "colorcode": "#F2EDDF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Light Wings",
+    "colorcode": "#F3ECE0",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soft Flutter",
+    "colorcode": "#F3EADC",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Intimate White",
+    "colorcode": "#EFE8DA",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Mobe Pearl",
+    "colorcode": "#EBE1D4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Peaceful White",
+    "colorcode": "#EEE9D6",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Walden White",
+    "colorcode": "#EAE8D8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soft Tissue",
+    "colorcode": "#F0E9DC",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Eggshell",
+    "colorcode": "#E5E2D1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Sun Glint",
+    "colorcode": "#F4F1D9",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Daisy White",
+    "colorcode": "#F5EED4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Gossamer White",
+    "colorcode": "#FBF4DB",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Creamy White",
+    "colorcode": "#FCF4D9",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Swan Wing",
+    "colorcode": "#FBF3DE",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Cotton Bud",
+    "colorcode": "#FBF3DF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soft Pulp",
+    "colorcode": "#FCEED5",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Ultra Smooth",
+    "colorcode": "#F2E7D1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Swanlike",
+    "colorcode": "#F2E8D4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Peach Pinch",
+    "colorcode": "#F6E9D6",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Bare Blush",
+    "colorcode": "#F6E6D4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Victorian White",
+    "colorcode": "#F3E2CD",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Bare Toes",
+    "colorcode": "#F6E9D9",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Timid Pink",
+    "colorcode": "#FAEFDF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Autumn White",
+    "colorcode": "#F9E7D7",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Pink Puff",
+    "colorcode": "#F9E8D8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Angelic Pink",
+    "colorcode": "#F2E7DC",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Rosy Dawn",
+    "colorcode": "#EDDFD5",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Rose Fragrance",
+    "colorcode": "#F0DFD4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Lullaby",
+    "colorcode": "#ECDDD6",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Sugar Pink",
+    "colorcode": "#FAEEE4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "White Peony",
+    "colorcode": "#F3E8DF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Drifting Cloud",
+    "colorcode": "#EFE6DF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "White Dawn",
+    "colorcode": "#EFE5DE",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Pink Cloud",
+    "colorcode": "#FBEFE7",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Penelope Pink",
+    "colorcode": "#F3E5DD",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Snowbush Rose",
+    "colorcode": "#F7E4DE",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Felicia Rose",
+    "colorcode": "#F4E0D9",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Sweet Wreath",
+    "colorcode": "#FCEAE9",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Restful",
+    "colorcode": "#FBEDEE",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Light Laurels",
+    "colorcode": "#EEE1E4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Josette",
+    "colorcode": "#E9DEE3",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soft Marion",
+    "colorcode": "#EFE7E6",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Wisteria White",
+    "colorcode": "#E6DEDB",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Orchid Scent",
+    "colorcode": "#E5DAD5",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Orchid Garden",
+    "colorcode": "#E1DED8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Special Touch",
+    "colorcode": "#E1E3E4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "White Lilac",
+    "colorcode": "#E1E0DF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Velvet Touch",
+    "colorcode": "#DFE0E4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Iris Tip",
+    "colorcode": "#DDDCDE",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Remembrance",
+    "colorcode": "#DEE4E2",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Fondness",
+    "colorcode": "#D6DFDF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soft Tendrils",
+    "colorcode": "#D7E3E9",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Laid Back",
+    "colorcode": "#D2E2E8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soothing Blue",
+    "colorcode": "#E4EEE8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Blue Vision",
+    "colorcode": "#DDE8E5",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Blue Trace",
+    "colorcode": "#D8E9E8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Sprizzle",
+    "colorcode": "#D3E7EB",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Graceful",
+    "colorcode": "#DCE5E0",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Soft Creek",
+    "colorcode": "#DBE7E6",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Meanders",
+    "colorcode": "#D3DEDE",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Cool Drift",
+    "colorcode": "#D4DAD7",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Cool Hint",
+    "colorcode": "#E7F1E4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Mint Scent",
+    "colorcode": "#E1F0E3",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Blue Essence",
+    "colorcode": "#D7E6E0",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Blue Swirl",
+    "colorcode": "#DEF0E8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Slight Wift",
+    "colorcode": "#E8F4E0",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Sea Breeze",
+    "colorcode": "#E0EADC",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Wafting Wave",
+    "colorcode": "#D5E5D8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Clear Day",
+    "colorcode": "#D5ECE0",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Green Pass",
+    "colorcode": "#EBF4D4",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Green Whimsey",
+    "colorcode": "#E4EDD3",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Clover Petal",
+    "colorcode": "#E3EAD1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Tumbling Water",
+    "colorcode": "#D8E3CA",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Gardenia",
+    "colorcode": "#E9ECDA",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Light Gauze",
+    "colorcode": "#E7E5D1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Evening Breeze",
+    "colorcode": "#DEE2D1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Rusting Leaf",
+    "colorcode": "#DDE5D0",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Reserved White",
+    "colorcode": "#ECEADF",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Ash White",
+    "colorcode": "#E7E4DA",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Reticent White",
+    "colorcode": "#DFDED6",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "White Concrete",
+    "colorcode": "#DEDDD7",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Violet Whisper",
+    "colorcode": "#E9E8E1",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Gray Dew",
+    "colorcode": "#E0DFD8",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Gray Drops",
+    "colorcode": "#DFDFDD",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  },
+  {
+    "name": "Genteel",
+    "colorcode": "#D8DCDA",
+    "desc": "Đây là màu sơn bản quyền thuộc Nippon"
+  }
+]
